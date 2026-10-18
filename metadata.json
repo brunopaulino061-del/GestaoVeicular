@@ -1,0 +1,6 @@
+{
+  "name": "AutoGestão - Controle Veicular",
+  "description": "Controle completo do seu veículo: gastos com combustível, consumo médio (km/l), manutenções preventivas, lembretes automáticos de troca de óleo e relatórios mensais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
